@@ -1,0 +1,53 @@
+body {
+    height: 100vh;
+}
+
+.blue-background {
+    background: #00aeef;
+}
+
+.site-content {
+    text-align: center;
+    color: #fff;
+    margin-top: 26px;
+}
+
+h1 {
+    font-family: "Great Vibes",cursive;
+    font-size: 38px;
+    margin-top: 15px;
+}
+
+.character-image {
+    height: 375px;
+}
+
+.character-image img{
+    position:absolute;
+    bottom:0px;
+    left: 27%;
+}
+
+.name {
+    font-family: "Gravitas One",regular;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.turn {
+    font-family: "Gravitas One",regular;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.winner {
+    font-family: 'Gravitas One', regular;
+    font-size: 38px;
+    margin-top: 15px;
+}
+
+.winner-image {
+    margin-top: 5px;
+}
